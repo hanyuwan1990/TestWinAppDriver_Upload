@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5183ea21-9ba7-455f-8e8f-910e62b2fcde": {
+      "ProjectGuid": "5183ea21-9ba7-455f-8e8f-910e62b2fcde",
+      "DisplayName": "Login_WPF",
+      "ColorIndex": 0
+    },
+    "1db3d53a-ac34-4404-8e2c-238a43968cfa": {
+      "ProjectGuid": "1db3d53a-ac34-4404-8e2c-238a43968cfa",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
